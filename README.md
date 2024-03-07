@@ -1,2 +1,2 @@
-# FDC CURSO GIT
+# Curso Git
  Primeira aula git
